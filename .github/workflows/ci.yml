@@ -64,6 +64,6 @@ jobs:
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: CI Pipeline Failed
-          to: votre-email@example.com
+          to: mildnessseverin@gmail.com
           from: GitHub Actions
           body: Le pipeline CI a échoué. Consultez les logs sur GitHub.
